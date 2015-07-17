@@ -18,7 +18,7 @@ public class TouchImageView extends ImageView {
     static final int DRAG = 1;
     static final int ZOOM = 2;
     int mode = NONE;
-    int a;
+
     // Remember some things for zooming
     PointF last = new PointF();
     PointF start = new PointF();
