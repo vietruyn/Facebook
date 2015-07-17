@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-0cc60af6ebeabd81282aab21fcb138595b267bc1.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-1518291fbea080853610026112ec05169993bb9e.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-4e638e2d30db5c11f19c2d52992262ae47ab2827.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-81712fa4b785b69feb9ba8288ccebd58e4d81fb3.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-2ac7e2f175669c956857a541b205f7c89f111956.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-20eb8c26f6a19711a48cb784cdd6e21a26f4bf7a.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.16/d8f5b9114ebe0f76de7fbf55e950540959ce4ff8/library-1.0.16.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8f5b9114ebe0f76de7fbf55e950540959ce4ff8">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/library-1.0.16-40d18bff1f50df2c338c9177067407891316ee44.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-da7b0e3e494bbb6ec7660bd9bdbfb8cd55ecb16f.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-c4645e104369ee13b454aedac6972b85b27a204e.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-167edcd1be7a83bc941371cbe9b26b9aecdb1246.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-7584a8d275d67ca3b74be19a25b5c108e0a09361.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/gson-2.3.1-212ca57d91e9718df187b8b5f6a46ef1f8bbfd6c.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-3c904a71520840b55a53be14ad91da0c5159d546.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-758751d37a9f06db28f032c64f3a64089be77f40.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-76d3ca6220652127fe0ee38a1b21e1a36b44d3f8.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-636b00471c1c1bab6de0a68e42840927929df45a.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-9c9f2a046797988ead46c4c9753d71c4bc8b042f.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-0e3e12610e5e549f9a462c2288dd1bd18aea6c1a.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e5128c51718e31db7a7c82764ca1fa7713c19322.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-1ecc0a485d1f4f60c81a3aae43890c27f1ae98ed.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-055a127762d26fa5fdcf0ccfa8da3d1c3c9e6cba.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/picasso-2.3.2-97a18f66294ce068205924f64b9b637f456b9ec6.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-3ded4c1157c4c57ca45912042127581b33566fed.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-8058ea1370f3c7a129f5ca6823c6ef8315b73f32.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-7617eb0c957aa705df15c6eebd3ddff43497d623.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4deedeee7bfabdfa8a097d50a29ffa0f859c8cac.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-17785a5fa647f190edbe449054b3abec85894c60.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-0e426a2d3d5e7cc343696c486cb7c778ccb566c2.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/Facebook Like FeedView/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f9247babda0dbadce0135ca9045c5482f4d4938">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-2251c2a52b8bbc320f54f40a16e633b6c42b3c74.jar" />
+    </item>
+    <item
+        jar="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/vietruyn/AndroidStudioProjects/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/classes-a256725d64a82030930ec81c6769d3b4294f9473.jar" />
+    </item>
+
+</items>

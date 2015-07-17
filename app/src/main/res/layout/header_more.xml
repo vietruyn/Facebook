@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Gợi ý kết bạn"
+    android:layout_margin="10dp"
+    android:textColor="#80000000"
+    android:textSize="16dp"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <info.androidhive.listviewfeed.HorizontalListView
+            android:id="@+id/lvpic"
+            android:layout_width="match_parent"
+            app:dividerWidth="5dp"
+            android:layout_height="180dp">
+        </info.androidhive.listviewfeed.HorizontalListView>
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lời mời kết bạn"
+        android:layout_margin="10dp"
+        android:textColor="#80000000"
+        android:textSize="16dp"/>
+</LinearLayout>

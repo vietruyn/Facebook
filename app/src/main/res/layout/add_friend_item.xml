@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/lr123"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:background="#d3d6db">
+
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/imgavatar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp">
+
+        </com.android.volley.toolbox.NetworkImageView>
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/imgavatar"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtBanChung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtName"
+            android:layout_marginLeft="5dp"
+            android:textSize="10dp"
+            android:textColor="#80000000"
+            android:layout_toRightOf="@+id/imgavatar"/>
+
+        <Button
+            android:id="@+id/btnChapNhan"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_below="@id/txtBanChung"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/imgavatar"
+            android:background="@drawable/button_add"
+            android:text="Chấp nhận"
+            android:textColor="#fff"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnXoa"
+            android:layout_width="120dp"
+            android:layout_height="35dp"
+            android:layout_below="@+id/txtBanChung"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@+id/btnChapNhan"
+            android:background="@drawable/button_delete"
+            android:text="Xóa"
+            android:textColor="#000"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnBanBe"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:visibility="gone"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/button_add"
+            android:text="Bạn bè" />
+    </RelativeLayout>
+
+</LinearLayout>

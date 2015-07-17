@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/maps_station"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:background="@color/bg_main"
+            android:layout_width="match_parent"
+            android:layout_height="48dp">
+
+            <ImageView
+                android:layout_marginRight="8dp"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="32dp"
+                android:background="@drawable/img_search"
+                android:layout_height="32dp" />
+
+
+            <ImageView
+                android:layout_marginLeft="8dp"
+                android:layout_centerInParent="true"
+                android:layout_alignParentLeft="true"
+                android:layout_width="32dp"
+                android:background="@drawable/img_home"
+                android:layout_height="32dp" />
+        </RelativeLayout>
+
+        <fragment
+            android:layout_weight="1"
+            android:id="@+id/frgMap"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:name="com.google.android.gms.maps.SupportMapFragment" />
+
+        <RelativeLayout
+            android:background="@color/bg_main"
+            android:layout_width="match_parent"
+            android:layout_height="48dp">
+
+            <ImageView
+                android:layout_marginRight="8dp"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="32dp"
+                android:background="@drawable/img_refresh"
+                android:layout_height="32dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

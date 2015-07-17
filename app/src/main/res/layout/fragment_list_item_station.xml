@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_station"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:padding="7dp"
+    android:layout_height="wrap_content"
+    android:background="#ffcab6c1">
+
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="@null" />
+
+    <RelativeLayout
+        android:layout_marginLeft="8dp"
+        android:layout_width="230dp"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:textStyle="bold"
+            android:textColor="@color/color_blue"
+            android:singleLine="true"
+            android:textSize="16sp"
+            android:layout_width="fill_parent"
+            android:layout_gravity="center_vertical"
+            android:ellipsize="marquee"
+            android:gravity="center_vertical"
+            android:text="Trạm xăng Điện Biên Phủ"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_vicinity"
+            android:singleLine="true"
+            android:layout_width="fill_parent"
+            android:text="419 Tôn Đức Thắng, Hòa Khánh Nam"
+            android:textColor="@color/text_color"
+            android:layout_below="@id/tv_name"
+            android:ellipsize="marquee"
+            android:layout_marginTop="4dp"
+            android:textSize="14sp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tvDistance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_vicinity"
+            android:layout_marginTop="4dp"
+            android:text="about 2.2 km"
+            android:textSize="12sp"
+            android:textColor="@color/color_black" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_favorite"
+            android:layout_width="58dp"
+            android:scaleType="centerCrop"
+            android:gravity="center"
+            android:background="@drawable/ic_offfavorites"
+            android:contentDescription="@null"
+            android:layout_height="58dp" />
+    </LinearLayout>
+
+</LinearLayout>
